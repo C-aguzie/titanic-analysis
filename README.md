@@ -39,6 +39,8 @@ This project focuses on cleaning and analyzing the Titanic dataset to uncover pa
 ---
 
 ## 📊 Key Analysis & Insights
+### 📊 Dashboard Preview
+* It visually showed the Survival Rate by Gender and the Survival Rate by Class on a column chart, The Survival Rate by Age group on a Bar chart and the Family vs Survival(Family Influence) on a pie chart
 
 ### 🔹 Survival by Gender
 
